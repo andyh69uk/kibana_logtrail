@@ -1,0 +1,22 @@
+{
+  "name": "logtrail",
+  "version": "0.1.8",
+  "kibana.version": "5.1.2",
+  "description": "Plugin to view, search & tail logs in Kibana",
+  "main": "index.js",
+  "dependencies": {
+    "sugar-date": "1.5.1",
+    "flat": "2.0.1"
+  },
+  "kibana": {
+    "version": "0.1.8"
+  },
+  "build": {
+    "git": {
+      "count": "35",
+      "sha": "7cc5754",
+      "date": "Mon, 6 Feb 2017 14:30:12 +0530"
+    },
+    "date": "Tue Feb 07 2017 23:09:07 GMT+0000 (GMT)"
+  }
+}
